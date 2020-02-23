@@ -25,4 +25,5 @@ opcao= input('Digite a opcao desejada: ')
  whith    open('usuario.dat','w') as arquivo:
     usuario.sort(
 for usuarios in usuarios:
-   arquivo.write('\n'+usuario.strip())
+   arquivo.write('\n'+usuario.strip()) 
+   TET 

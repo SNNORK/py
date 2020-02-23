@@ -12,7 +12,7 @@ opcao=''
 usuarios = []
 if
 while opcao != '0' :
-os.system('clear') or None 
+os.syVstem('clear') or None 
 Print(menu.format(Len(usuarios)))
 opcao= input('Digite a opcao desejada: ')
          if opcao=='1' : usuarios.append(input('Nome:'))

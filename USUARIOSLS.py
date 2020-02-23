@@ -26,4 +26,4 @@ opcao= input('Digite a opcao desejada: ')
     usuario.sort(
 for usuarios in usuarios:
    arquivo.write('\n'+usuario.strip()) 
-   TET 
+   TET 5

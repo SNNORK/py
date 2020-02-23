@@ -10,6 +10,7 @@ menu= ' '
 
 opcao=''
 usuarios = []
+if
 while opcao != '0' :
 os.system('clear') or None 
 Print(menu.format(Len(usuarios)))
